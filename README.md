@@ -1,6 +1,6 @@
 🤡 Back End
 
-Java & Python
+Java & Python & JavaScript
 
 💻：[https://www.creater.club](https://www.creater.club)
 
