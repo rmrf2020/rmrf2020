@@ -8,10 +8,3 @@ Java & Python & JavaScript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmrf2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<style type="text/css" rel="stylesheet">
-.example { 
-    color: red; 
-    font-size: 1.5em;
-    }
-</style>
-<div id="example">1</div>
