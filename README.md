@@ -2,17 +2,20 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; currently working as a backend developer using Java.
-- 🤔 &nbsp; Exploring new technologies such as AIGC and swift.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
-- ☕  &nbsp; I belive, a good product doesn't need an instruction manual. 
+- 💼 &nbsp; Currently focused on LLM and AI Agent development using Python.
+- � &nbsp; Specialized in building intelligent AI systems and autonomous agents.
+- 🔍 &nbsp; Experienced in RAG (Retrieval-Augmented Generation) systems and applications.
+- 🌱 &nbsp; Passionate about cutting-edge AI technologies and their practical implementations.
+- ☕ &nbsp; I believe, a good product doesn't need an instruction manual.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Python | JavaScript
-- 🌐 &nbsp; BackEnd | Web Crawler | uni-app | CSS
-- 🛢 &nbsp; MySQL | Redis | MongoDB
-- 🔧 &nbsp; IDEA | PyCharm | Visual Studio code | Docker | k3s | Git 
+- 💻 &nbsp; Python | LLM Development | AI Agent Frameworks
+- 🤖 &nbsp; LangChain | OpenAI API | Hugging Face | RAG Systems
+- 🧠 &nbsp; Machine Learning | Natural Language Processing | Vector Databases
+- 🌐 &nbsp; FastAPI | Flask | RESTful APIs | Web Scraping
+- 🛢 &nbsp; Vector DBs (Pinecone, Chroma) | MySQL | Redis | MongoDB
+- 🔧 &nbsp; PyCharm | VS Code | Docker | Git | Jupyter Notebook
 
 <br>
 
@@ -21,7 +24,6 @@
 </br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmrf2020&layout=compact&text_color=daf7dc&bg_color=151515" alt="devSouvik's Github Stats">
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
